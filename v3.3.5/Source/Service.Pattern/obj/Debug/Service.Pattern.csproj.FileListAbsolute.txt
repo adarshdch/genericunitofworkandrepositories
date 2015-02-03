@@ -7,3 +7,12 @@ C:\Users\lelong37\Source\Repos\uowrepo\main\Source\Service.Pattern\bin\Debug\Rep
 C:\Users\lelong37\Source\Repos\uowrepo\main\Source\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
 C:\Users\lelong37\Source\Repos\uowrepo\main\Source\Service.Pattern\obj\Debug\Service.Pattern.dll
 C:\Users\lelong37\Source\Repos\uowrepo\main\Source\Service.Pattern\obj\Debug\Service.Pattern.pdb
+C:\D\Git\genericunitofworkandrepositories\v3.3.5\Source\Service.Pattern\bin\Debug\Service.Pattern.dll.config
+C:\D\Git\genericunitofworkandrepositories\v3.3.5\Source\Service.Pattern\bin\Debug\Service.Pattern.dll
+C:\D\Git\genericunitofworkandrepositories\v3.3.5\Source\Service.Pattern\bin\Debug\Service.Pattern.pdb
+C:\D\Git\genericunitofworkandrepositories\v3.3.5\Source\Service.Pattern\bin\Debug\Repository.Pattern.dll
+C:\D\Git\genericunitofworkandrepositories\v3.3.5\Source\Service.Pattern\bin\Debug\System.Net.Http.dll
+C:\D\Git\genericunitofworkandrepositories\v3.3.5\Source\Service.Pattern\bin\Debug\Repository.Pattern.pdb
+C:\D\Git\genericunitofworkandrepositories\v3.3.5\Source\Service.Pattern\obj\Debug\Service.Pattern.csprojResolveAssemblyReference.cache
+C:\D\Git\genericunitofworkandrepositories\v3.3.5\Source\Service.Pattern\obj\Debug\Service.Pattern.dll
+C:\D\Git\genericunitofworkandrepositories\v3.3.5\Source\Service.Pattern\obj\Debug\Service.Pattern.pdb
